@@ -1,0 +1,27 @@
+# 에디터 및 IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# 빌드 결과
+dist/
+build/
+out/
+
+# 임시 파일
+.temp/
+.tmp/
+*.log
